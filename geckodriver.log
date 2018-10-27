@@ -1,0 +1,1682 @@
+1540674672154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5seOzcozlgEy"
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30902): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31004): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31027): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1540674674434	Marionette	INFO	Listening on port 39239
+1540674674467	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31090): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+1540674679963	Marionette	INFO	Stopped listening on port 39239
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1540674709632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vjBFJnlq4zJT"
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31371): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31483): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1540674711590	Marionette	INFO	Listening on port 39938
+1540674711650	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:251:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:334:15: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:488:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:491:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:495:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:499:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:503:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:507:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:512:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:516:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:521:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:525:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:530:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:534:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:537:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:541:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:549:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:552:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:555:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:558:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:576:41: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:580:32: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:585:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:589:40: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:594:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:598:38: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:610:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:614:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:622:228: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:636:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:641:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:647:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:714:22: 'text-decoration-line' is not a valid property name
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1055:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1059:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1062:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1067:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1069:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1074:27: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1077:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1080:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1083:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1086:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1089:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1092:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1095:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1098:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1101:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1104:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1107:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1110:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1113:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1116:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1119:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1607:31: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1610:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1615:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1618:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1621:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1910:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:1914:33: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2292:25: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2596:34: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2802:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2807:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2809:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2814:49: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2817:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2820:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2823:47: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2916:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2923:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2927:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2932:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2938:21: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2943:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2951:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:3779:73: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: Theme parsing error: gtk.css:4005:75: Missing name of pseudo-class
+[Parent 31371, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31371, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540674714335	Marionette	INFO	Stopped listening on port 39938
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31371): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1540675136035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R7vAROQCYImf"
+*** You are running in headless mode.
+1540675137820	Marionette	INFO	Listening on port 33732
+1540675137854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540675209551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SmDHOQEjeoHQ"
+*** You are running in headless mode.
+1540675211387	Marionette	INFO	Listening on port 39636
+1540675211464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540675244244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fqtDza7s0a3q"
+*** You are running in headless mode.
+1540675245998	Marionette	INFO	Listening on port 43871
+1540675246055	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:1904): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+** (firefox:3055): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+** (firefox:3870): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+1540676540230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SZd6SMe5n4ep"
+*** You are running in headless mode.
+1540676542220	Marionette	INFO	Listening on port 38529
+1540676542244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540676613717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.28hrocs8K7bx"
+*** You are running in headless mode.
+1540676615627	Marionette	INFO	Listening on port 37906
+1540676615732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540676683783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m1p9Y4FEDAgV"
+*** You are running in headless mode.
+1540676685944	Marionette	INFO	Listening on port 37932
+1540676686000	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:17895): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+1540676737515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BKO7OZuFm7Dx"
+*** You are running in headless mode.
+1540676739276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WznSnvANANre"
+*** You are running in headless mode.
+1540676741240	Marionette	INFO	Listening on port 45560
+1540676741283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540676789118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q32aYP6zRtJS"
+*** You are running in headless mode.
+1540676791542	Marionette	INFO	Listening on port 41140
+1540676791655	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:18345): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+** (firefox:18910): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+** (firefox:19520): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+1540676944486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hlbaj9CJHOaT"
+*** You are running in headless mode.
+1540676947138	Marionette	INFO	Listening on port 41452
+1540676947236	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:19887): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18459, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3986, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3960, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20011, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19616, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540677263565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OQz6DmSYvjp9"
+*** You are running in headless mode.
+1540677265585	Marionette	INFO	Listening on port 42510
+1540677265674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540677272646	Marionette	INFO	Stopped listening on port 42510
+1540677283577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.savSdqoBHzrU"
+*** You are running in headless mode.
+1540677285298	Marionette	INFO	Listening on port 37618
+1540677285386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540677294293	Marionette	INFO	Stopped listening on port 37618
+[Child 23248, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Child 23248, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Parent 23140, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23140, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540677307718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.08IsYK8Z8CmU"
+*** You are running in headless mode.
+1540677309465	Marionette	INFO	Listening on port 39101
+1540677309524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540677318126	Marionette	INFO	Stopped listening on port 39101
+[Parent 23439, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540677812563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ySWR7iXURts"
+*** You are running in headless mode.
+1540677814320	Marionette	INFO	Listening on port 45437
+1540677814370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540677815954	Marionette	INFO	Stopped listening on port 45437
+[Parent 30782, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 30782, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540677820770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bK4x6EmSBmFZ"
+*** You are running in headless mode.
+1540677822507	Marionette	INFO	Listening on port 43664
+1540677822576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540677824093	Marionette	INFO	Stopped listening on port 43664
+[Parent 31008, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31008, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540678983183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AEzdP6gmMC5O"
+*** You are running in headless mode.
+1540678984923	Marionette	INFO	Listening on port 42019
+1540678984989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540679059566	Marionette	INFO	Stopped listening on port 42019
+[Parent 16862, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540679505514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uLHS7fVNhJ96"
+*** You are running in headless mode.
+1540679507332	Marionette	INFO	Listening on port 37731
+1540679507420	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:19151): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
