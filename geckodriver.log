@@ -1680,3 +1680,183 @@
 1540679507420	Marionette	WARN	TLS certificate errors will be ignored for this session
 
 ** (firefox:19151): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+1540681448026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mtwyMPFf1Nv3"
+*** You are running in headless mode.
+1540681449965	Marionette	INFO	Listening on port 37914
+1540681450037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540681524348	Marionette	INFO	Stopped listening on port 37914
+1540682651422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yPFjNrNMb2dw"
+*** You are running in headless mode.
+1540682653234	Marionette	INFO	Listening on port 46620
+1540682653336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540682682947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z2jCnFuIHR0T"
+*** You are running in headless mode.
+1540682684869	Marionette	INFO	Listening on port 44046
+1540682684970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540682743958	Marionette	INFO	Stopped listening on port 46620
+[Parent 2752, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540682770422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lM3jur75MjDf"
+*** You are running in headless mode.
+1540682771930	Marionette	INFO	Stopped listening on port 44046
+[Parent 3290, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540682772806	Marionette	INFO	Listening on port 35281
+1540682772840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540682845201	Marionette	INFO	Stopped listening on port 35281
+[Parent 3840, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540682860417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J3s7WbYjG8Y7"
+*** You are running in headless mode.
+1540682862289	Marionette	INFO	Listening on port 38438
+1540682862327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540682938365	Marionette	INFO	Stopped listening on port 38438
+[Parent 4559, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540682950416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AdYncMlXy9RZ"
+*** You are running in headless mode.
+1540682952197	Marionette	INFO	Listening on port 37122
+1540682952233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683028740	Marionette	INFO	Stopped listening on port 37122
+[Parent 6786, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683040419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4zjDw5RiGMRd"
+*** You are running in headless mode.
+1540683042605	Marionette	INFO	Listening on port 41088
+1540683042648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683118362	Marionette	INFO	Stopped listening on port 41088
+[Parent 8179, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683130415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tGrLIsoPRTjd"
+*** You are running in headless mode.
+1540683132454	Marionette	INFO	Listening on port 45840
+1540683132522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683195173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s84bpSQ8pB6n"
+*** You are running in headless mode.
+1540683197742	Marionette	INFO	Listening on port 44560
+1540683197798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683205178	Marionette	INFO	Stopped listening on port 45840
+[Parent 8945, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683220415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bnMEJrB0ckDo"
+*** You are running in headless mode.
+1540683222215	Marionette	INFO	Listening on port 35187
+1540683222239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hacktoberfest.digitalocean.com/assets/application-134859a20456d7d32be9ea1bc32779e87cad0963355b5372df99a0cff784b7f0.js, line 11: TypeError: window.Bugsnag is undefined
+1540683258276	Marionette	INFO	Stopped listening on port 44560
+JavaScript error: https://hacktoberfest.digitalocean.com/assets/application-134859a20456d7d32be9ea1bc32779e87cad0963355b5372df99a0cff784b7f0.js, line 11: TypeError: window.Bugsnag is undefined
+[Parent 9438, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683277784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PHWmgxJENb2Z"
+*** You are running in headless mode.
+1540683279723	Marionette	INFO	Listening on port 43694
+1540683279802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683280379	Marionette	INFO	Stopped listening on port 35187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9712, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683310415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wfnrXGUBnVOQ"
+*** You are running in headless mode.
+1540683312579	Marionette	INFO	Listening on port 39697
+1540683312630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683345143	Marionette	INFO	Stopped listening on port 43694
+[Parent 10181, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10181, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683377279	Marionette	INFO	Stopped listening on port 39697
+[Parent 10581, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683400418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G2pthy6JO7Sf"
+*** You are running in headless mode.
+1540683402206	Marionette	INFO	Listening on port 36913
+1540683402231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683471049	Marionette	INFO	Stopped listening on port 36913
+[Parent 11115, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683490415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2XTsDkSIhAX9"
+*** You are running in headless mode.
+1540683492132	Marionette	INFO	Listening on port 46245
+1540683492228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683548026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gxUlGf40gyBc"
+*** You are running in headless mode.
+1540683550007	Marionette	INFO	Listening on port 36987
+1540683550037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683554563	Marionette	INFO	Stopped listening on port 46245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11527, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683580419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5leztIaAV5Ip"
+*** You are running in headless mode.
+1540683582340	Marionette	INFO	Listening on port 32776
+1540683582426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683651470	Marionette	INFO	Stopped listening on port 36987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12078, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683688859	Marionette	INFO	Stopped listening on port 32776
+[Parent 12417, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683700414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.udamepX49RQJ"
+*** You are running in headless mode.
+1540683702121	Marionette	INFO	Listening on port 33192
+1540683702236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683776193	Marionette	INFO	Stopped listening on port 33192
+[Parent 12899, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683790414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bVrjXipv9tS6"
+*** You are running in headless mode.
+1540683792146	Marionette	INFO	Listening on port 34013
+1540683792225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683866889	Marionette	INFO	Stopped listening on port 34013
+[Parent 13270, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683880415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rBO695ak80jT"
+*** You are running in headless mode.
+1540683882102	Marionette	INFO	Listening on port 45920
+1540683882124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540683951685	Marionette	INFO	Stopped listening on port 45920
+[Parent 13644, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540683970424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CILwt2E5BadO"
+*** You are running in headless mode.
+1540683972132	Marionette	INFO	Listening on port 33120
+1540683972230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540684049285	Marionette	INFO	Stopped listening on port 33120
+[Parent 14023, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540684060415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E4lX2DXF9Mgv"
+*** You are running in headless mode.
+1540684062182	Marionette	INFO	Listening on port 34746
+1540684062224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540684138168	Marionette	INFO	Stopped listening on port 34746
+[Parent 14394, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540684150419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e4Sk89gKE0jc"
+*** You are running in headless mode.
+1540684152130	Marionette	INFO	Listening on port 37658
+1540684152225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540684217833	Marionette	INFO	Stopped listening on port 37658
+[Parent 14771, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540684240414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2tYqN8HCzgPR"
+*** You are running in headless mode.
+1540684242251	Marionette	INFO	Listening on port 46045
+1540684242348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540684305824	Marionette	INFO	Stopped listening on port 46045
+[Parent 15156, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-oGhoBt/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540684331420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mkB30gVLXDLs"
+*** You are running in headless mode.
+1540684333247	Marionette	INFO	Listening on port 35884
+1540684333337	Marionette	WARN	TLS certificate errors will be ignored for this session

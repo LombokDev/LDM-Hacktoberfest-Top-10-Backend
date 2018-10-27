@@ -10,6 +10,8 @@ APP_NAME = 'Lombok Dev - Top 10 Hacktoberfest'
 
 SECRET_KEY = "cBWegL8d367vPzTp9Y2pJudLLtaKi5Jtw8//WsRjZrc="
 
+HOST = 'http://localhost:5000'
+
 GITHUB_ACCOUNTS = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR5kNeVQR2yLePb1-Q5u7i9-cE5whC_pWleAqaGnZNqAUcaNk6BGHQ854egtsHX5HRBy3nsgoiB88cc/pub?gid=735228034&single=true&output=csv"
 
 example = '''[

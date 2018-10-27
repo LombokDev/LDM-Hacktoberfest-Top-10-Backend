@@ -27,7 +27,8 @@ def run():
 
   datas = [get_data(driver, user) for user in map_normal]
   print(datas)
-  socketio.emit('top-ten', datas)
+  print("sending data to %s/broadcast-top10" % config.HOST)
+  requests.post("%s/broadcast-top10" % config.HOST, json=datas)
 
   driver.quit()
 
