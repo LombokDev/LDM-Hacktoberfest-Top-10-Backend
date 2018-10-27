@@ -32,5 +32,5 @@ def get_data(driver, username):
 
 
 def post_data(data):
-  req = requests.post('localhost:5000/broadcast-top10', data=data)
+  req = requests.post('https://ldm5hacktoberfest.herokuapp.com/broadcast-top10', data=data)
   print(req.json())

@@ -5,6 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 import os
+import boot
+from boot import socketio
 
 
 def run():
@@ -24,6 +26,6 @@ def run():
   map_normal.extend(map_normalized)
 
   datas = [get_data(driver, user) for user in map_normal]
-  post_data(datas)
+  socketio.emit('top-ten', datas)
 
   driver.quit()
