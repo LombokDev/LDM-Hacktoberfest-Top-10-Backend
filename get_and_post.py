@@ -30,3 +30,6 @@ def run():
   socketio.emit('top-ten', datas)
 
   driver.quit()
+
+if __name__ == "__main__":
+  run()
