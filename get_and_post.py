@@ -26,6 +26,11 @@ def run():
   map_normal.extend(map_normalized)
 
   datas = [get_data(driver, user) for user in map_normal]
-  socketio.emit('top-ten', datas)
+  print(datas)
+  print("sending data to %s/broadcast-top10" % config.HOST)
+  requests.post("%s/broadcast-top10" % config.HOST, json=datas)
 
   driver.quit()
+
+if __name__ == "__main__":
+  run()
